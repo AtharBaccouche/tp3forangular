@@ -8,4 +8,5 @@ import { Component } from '@angular/core';
 export class TableauComponent {
 titre:string='opération de tableau'
 tab= [15, 46, 0, 89, 80];
+tab2= [15, 46, 10, 829, 80];
 }
